@@ -1,0 +1,19 @@
+# AIAutomation.blog
+
+## About
+AIAutomation.blog covers AI automation insights, tools, and strategies for modern businesses. Topics include workflow automation with n8n, AI-powered customer service, intelligent document processing, and practical implementation guides.
+
+## Content Focus
+- AI workflow automation (n8n, Make, Zapier alternatives)
+- Voice AI and conversational agents for business
+- Document processing with AI (OCR, classification, extraction)
+- SEO automation and content pipelines
+- AI-assisted development and DevOps
+- Unit economics of AI automation vs manual processes
+
+## Publisher
+Operated by FlipFactory Editorial Team. Content is AI-assisted with human editorial oversight.
+
+## Contact
+Website: https://aiautomation.blog
+Publisher: https://flipfactory.it.com
