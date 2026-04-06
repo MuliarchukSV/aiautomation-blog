@@ -1,6 +1,7 @@
 # AIAutomation.blog
 
-## About
+> Practical guides, tools, and strategies for AI automation in business — covering n8n workflows, voice AI agents, document processing, and real-world ROI of AI automation.
+
 AIAutomation.blog covers AI automation insights, tools, and strategies for modern businesses. Topics include workflow automation with n8n, AI-powered customer service, intelligent document processing, and practical implementation guides.
 
 ## Content Focus
@@ -11,9 +12,17 @@ AIAutomation.blog covers AI automation insights, tools, and strategies for moder
 - AI-assisted development and DevOps
 - Unit economics of AI automation vs manual processes
 
+## Key Articles
+- [What is n8n? Complete Guide to Workflow Automation](https://aiautomation.blog/blog/what-is-n8n/): Introduction to n8n, setup, and core concepts
+- [AI Automation ROI Calculator](https://aiautomation.blog/blog/ai-automation-roi/): How to calculate returns on AI automation projects
+- [Voice AI Agents for Business](https://aiautomation.blog/blog/voice-ai-agents-business/): Building and deploying voice AI in customer service
+- [n8n vs Make vs Zapier](https://aiautomation.blog/blog/n8n-vs-make-vs-zapier/): Comparison of major automation platforms
+
+## Editorial Process
+AI-assisted research and drafting with quality checks and human review.
+Learn more: https://aiautomation.blog/editorial-process
+
 ## Publisher
 Operated by FlipFactory Editorial Team. Content is AI-assisted with human editorial oversight.
-
-## Contact
 Website: https://aiautomation.blog
 Publisher: https://flipfactory.it.com

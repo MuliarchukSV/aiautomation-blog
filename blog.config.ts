@@ -1,6 +1,7 @@
 import type { BlogConfig } from './template/blog.config.ts';
 const config: BlogConfig = {
   name: "AIAutomation.blog",
+  homeTitle: "AI Automation Tools, Workflows & Guides | AIAutomation.blog",
   description: "AI automation insights, tools, and strategies for business",
   site: "https://aiautomation.blog",
   language: "en",
