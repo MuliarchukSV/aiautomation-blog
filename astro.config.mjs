@@ -2,7 +2,7 @@ import { defineConfig } from 'astro/config';
 import tailwind from '@astrojs/tailwind';
 import sitemap from '@astrojs/sitemap';
 export default defineConfig({
-  site: 'https://aiautomation.blog',
+  site: 'https://aiautomationblog.com',
   srcDir: './template/src',
   integrations: [tailwind(), sitemap()],
   markdown: { shikiConfig: { theme: 'github-dark' } },
