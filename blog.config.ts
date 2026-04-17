@@ -8,5 +8,13 @@ const config: BlogConfig = {
   niche: "AI automation for business",
   colors: { primary: "#f59e0b", accent: "#10b981" },
   analytics: { plausibleDomain: "aiautomationblog.com" },
+  author: {
+    name: 'Sergii Muliarchuk',
+    url: 'https://flipfactory.it.com',
+    sameAs: [
+      'https://www.linkedin.com/in/sergii-muliarchuk/',
+      'https://github.com/MuliarchukSV',
+    ],
+  },
 };
 export default config;
